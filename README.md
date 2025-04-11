@@ -25,6 +25,26 @@ This project is designed to **analyze customer feedback** using **sentiment anal
 - **Automated analysis**: Works on large datasets for quick insights.
 - **Customizable**: Adjusts models and parameters for fine-tuning.
 
+## Project Screenshots
+**Home Page**
+![Home Page](https://github.com/user-attachments/assets/d5d89915-cea9-4b1e-957b-61dce80e9f79)
+
+**Product Page**
+![Product Page](https://github.com/user-attachments/assets/06d8aab3-c7a3-49e3-8842-55a37181ae0b)
+
+**Customr Reviews**
+![Customer Reviews](https://github.com/user-attachments/assets/a682578f-07b1-4421-93b7-c98e0e43b50c)
+
+**Reviews Analysis**
+![Analysis](https://github.com/user-attachments/assets/eb927130-d36d-4a68-afb6-f2096598a324)
+
+**Reviews Summary**
+![Summary](https://github.com/user-attachments/assets/4bb7a46c-971f-4cab-9fd3-46b334560b33)
+
+**Product Chatbot**
+![Chatbot](https://github.com/user-attachments/assets/2ed26acc-3905-4f79-8347-4cd8fa72051c)
+
+
 ## 💚 Installation
 
 To run this project locally, install the required dependencies:
