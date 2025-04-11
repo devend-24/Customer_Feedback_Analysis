@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "products": [
       {
@@ -103,3 +104,25 @@
     ]
   }
   
+=======
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": "$99",
+        "features": "Noise cancellation, 20-hour battery life, Bluetooth 5.0",
+        "reviews": "Customers love its sound quality and comfort.",
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Smartwatch Pro",
+        "category": "Wearables",
+        "price": "$199",
+        "features": "Heart rate monitor, GPS, Water-resistant",
+        "reviews": "Praised for fitness tracking but battery life is average.",
+        "rating": 4.2
+    }
+]
+>>>>>>> ee367e60d63fa073741c0a3e635232e7ce489ca7
