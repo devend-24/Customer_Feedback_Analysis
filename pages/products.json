@@ -1,128 +1,128 @@
-<<<<<<< HEAD
 {
-    "products": [
-      {
-        "name": "Camera",
-        "price": 15000.00,
-        "price_range": "₹10,000 – ₹5,00,000",
-        "features": [
-          "High-resolution sensor",
-          "4K video recording",
-          "Optical zoom",
-          "DSLR/mirrorless"
-        ],
-        "best_for": [
-          "Professional photography",
-          "Filmmaking",
-          "Vlogging"
-        ]
-      },
-      {
-        "name": "Phone",
-        "price": 10000.00,
-        "price_range": "₹10,000 – ₹50,000",
-        "features": [
-          "Long battery life",
-          "Keypad or touchscreen",
-          "Dual SIM",
-          "Basic camera"
-        ],
-        "best_for": [
-          "Elderly users",
-          "Secondary phone",
-          "Basic calling & texting"
-        ]
-      },
-      {
-        "name": "Laptop",
-        "price": 65000.00,
-        "price_range": "₹25,000 – ₹2,00,000",
-        "features": [
-          "SSD storage",
-          "Powerful CPU",
-          "High-resolution display",
-          "Long battery life"
-        ],
-        "best_for": [
-          "Office work",
-          "Gaming",
-          "Content creation",
-          "Programming"
-        ]
-      },
-      {
-        "name": "Smartphone",
-        "price": 25000.00,
-        "price_range": "₹7,000 – ₹1,50,000",
-        "features": [
-          "High-speed processor",
-          "5G connectivity",
-          "Multiple cameras",
-          "Large storage"
-        ],
-        "best_for": [
-          "Social media",
-          "Photography",
-          "Gaming",
-          "Professional work"
-        ]
-      },
-      {
-        "name": "Headphones",
-        "price": 3000.00,
-        "price_range": "₹500 – ₹30,000",
-        "features": [
-          "Noise cancellation",
-          "Deep bass",
-          "Wireless & wired options",
-          "Long battery life"
-        ],
-        "best_for": [
-          "Music lovers",
-          "Gaming",
-          "Work calls",
-          "Travel"
-        ]
-      },
-      {
-        "name": "Smartwatch",
-        "price": 12000.00,
-        "price_range": "₹2,000 – ₹50,000",
-        "features": [
-          "Heart rate monitoring",
-          "Step tracking",
-          "Notifications",
-          "Bluetooth calling",
-          "AMOLED display"
-        ],
-        "best_for": [
-          "Fitness tracking",
-          "Health monitoring",
-          "Quick notifications"
-        ]
-      }
-    ]
-  }
-  
-=======
-[
+  "products": [
     {
-        "id": 1,
-        "name": "Wireless Headphones",
-        "category": "Electronics",
-        "price": "$99",
-        "features": "Noise cancellation, 20-hour battery life, Bluetooth 5.0",
-        "reviews": "Customers love its sound quality and comfort.",
-        "rating": 4.5
+      "name": "Camera",
+      "price": 15000.00,
+      "price_range": "₹10,000 – ₹5,00,000",
+      "features": [
+        "High-resolution sensor",
+        "4K video recording",
+        "Optical zoom",
+        "DSLR/mirrorless"
+      ],
+      "best_for": [
+        "Professional photography",
+        "Filmmaking",
+        "Vlogging"
+      ]
     },
     {
-        "id": 2,
-        "name": "Smartwatch Pro",
-        "category": "Wearables",
-        "price": "$199",
-        "features": "Heart rate monitor, GPS, Water-resistant",
-        "reviews": "Praised for fitness tracking but battery life is average.",
-        "rating": 4.2
+      "name": "Phone",
+      "price": 10000.00,
+      "price_range": "₹10,000 – ₹50,000",
+      "features": [
+        "Long battery life",
+        "Keypad or touchscreen",
+        "Dual SIM",
+        "Basic camera"
+      ],
+      "best_for": [
+        "Elderly users",
+        "Secondary phone",
+        "Basic calling & texting"
+      ]
+    },
+    {
+      "name": "Laptop",
+      "price": 65000.00,
+      "price_range": "₹25,000 – ₹2,00,000",
+      "features": [
+        "SSD storage",
+        "Powerful CPU",
+        "High-resolution display",
+        "Long battery life"
+      ],
+      "best_for": [
+        "Office work",
+        "Gaming",
+        "Content creation",
+        "Programming"
+      ]
+    },
+    {
+      "name": "Smartphone",
+      "price": 25000.00,
+      "price_range": "₹7,000 – ₹1,50,000",
+      "features": [
+        "High-speed processor",
+        "5G connectivity",
+        "Multiple cameras",
+        "Large storage"
+      ],
+      "best_for": [
+        "Social media",
+        "Photography",
+        "Gaming",
+        "Professional work"
+      ]
+    },
+    {
+      "name": "Headphones",
+      "price": 3000.00,
+      "price_range": "₹500 – ₹30,000",
+      "features": [
+        "Noise cancellation",
+        "Deep bass",
+        "Wireless & wired options",
+        "Long battery life"
+      ],
+      "best_for": [
+        "Music lovers",
+        "Gaming",
+        "Work calls",
+        "Travel"
+      ]
+    },
+    {
+      "name": "Smartwatch",
+      "price": 12000.00,
+      "price_range": "₹2,000 – ₹50,000",
+      "features": [
+        "Heart rate monitoring",
+        "Step tracking",
+        "Notifications",
+        "Bluetooth calling",
+        "AMOLED display"
+      ],
+      "best_for": [
+        "Fitness tracking",
+        "Health monitoring",
+        "Quick notifications"
+      ]
+    },
+    {
+      "name": "Wireless Headphones",
+      "price": 8100.00,
+      "category": "Electronics",
+      "features": [
+        "Noise cancellation",
+        "20-hour battery life",
+        "Bluetooth 5.0"
+      ],
+      "reviews": "Customers love its sound quality and comfort.",
+      "rating": 4.5
+    },
+    {
+      "name": "Smartwatch Pro",
+      "price": 16200.00,
+      "category": "Wearables",
+      "features": [
+        "Heart rate monitor",
+        "GPS",
+        "Water-resistant"
+      ],
+      "reviews": "Praised for fitness tracking but battery life is average.",
+      "rating": 4.2
     }
-]
->>>>>>> ee367e60d63fa073741c0a3e635232e7ce489ca7
+  ]
+}
