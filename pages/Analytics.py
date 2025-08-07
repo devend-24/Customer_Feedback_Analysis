@@ -107,6 +107,3 @@ else:
     st.warning("⚠️ No data available. Please check your database.")
 
 
-else:
-    st.warning("⚠️ No data available. Please check your database.")
-
